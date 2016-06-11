@@ -1,0 +1,8 @@
+{
+    "name": "Autonómicas",
+    "id": "com.getwatchthis.autonomicas",
+    "version": "1.0",
+    "kind": "tv",
+    "image": "flag:es",
+    "short_description": "Televisiones autonómicas de España"
+}
