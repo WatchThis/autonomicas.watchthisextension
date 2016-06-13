@@ -38,7 +38,7 @@ function channels(req) {
         ["CYL7", "cyl7.png", "rtmp://cdn.s1.eu.nice264.com:1935/niceLiveServer/cyl_cyltvlivem_MB_698"],
         ["ETB", "etb.png", "http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8"],
         ["IB3", "ib3.png", "http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8"],
-        ["Telemadrid", "telemadrid.png", "http://iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8"],
+        ["Telemadrid", "telemadrid.png", "http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadrid/_definst_/live/stream1.m3u8"],
         ["TPA", "tpa.png", "http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8"],
         ["TV3", "tv3.png", find_tv3_stream],
         ["TVR", "tvr.png", "http://teledifusion.tv:1935/rioja/rioja/playlist.m3u8"],
