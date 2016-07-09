@@ -3,6 +3,6 @@
     "id": "com.getwatchthis.autonomicas",
     "version": "1",
     "kind": "tv",
-    "image": "flag:es",
+    "image": "extension.png",
     "short_description": "Televisiones autonómicas de España"
 }
